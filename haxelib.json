@@ -1,0 +1,12 @@
+{
+    "name": "ScormExtern",
+    "url": "http://knowledge-players.github.io/ScormExtern/",
+    "license": "MIT",
+    "tags": [ "js" ],
+    "description": "Extern for the pipwerks' SCORM wrapper",
+    "version": "0.0.1",
+    "releasenote": "Init",
+    "contributors": [ "knowledge-players" ],
+    "dependencies": { }
+}
+
